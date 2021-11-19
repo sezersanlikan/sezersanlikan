@@ -5,7 +5,7 @@
 ## Cyber Security Analyst & System Support Specialist & Back-end Developer & Cloud Management Specialist 
 
 - 👨‍💻 I’m currently working on web development technologies like PHP, JS, CSS3 etc.
-- 📚 I’m currently learning React, VueJS, Docker, Kubernetes,  😅
+- 📚 I’m currently learning React, VueJS, Docker, Kubernetes, Redis Sentinel, GlusterFS ... 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
 ---
@@ -14,7 +14,7 @@
 
 [<img align="left" height="30px" src="https://image.flaticon.com/icons/png/512/1253/1253355.png" />][website]
 [<img align="left" height="30px" src="https://image.flaticon.com/icons/png/512/124/124011.png"/>][linkedin]
-[<img align="left" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
+[<img align="left" height="30px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
 [<img align="left" height="30px" src="https://image.flaticon.com/icons/png/512/733/733579.png" />][twitter]
 
 <br />
