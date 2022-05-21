@@ -8,17 +8,6 @@
 - 📚 I’m currently learning React, VueJS, Docker, Kubernetes, Redis Sentinel, GlusterFS ... 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
-[---
-
-### Contact with me 📝
-
-[<img align="left" height="30px" src="https://image.flaticon.com/icons/png/512/1253/1253355.png" />][website]
-[<img align="left" height="30px" src="https://image.flaticon.com/icons/png/512/124/124011.png"/>][linkedin]
-[<img align="left" height="30px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
-[<img align="left" height="30px" src="https://image.flaticon.com/icons/png/512/733/733579.png" />][twitter]
-
-<br />](url)
-
 ---
 
 ### Languages and Tools 🛠 
